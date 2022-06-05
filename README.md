@@ -1,6 +1,6 @@
-## HI! I´m Rubens Mette junior
+<h1 align="center">Hi 👋, I'm Rubens Mette Junior</h1>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/rubensmettejr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensmettejr&show_icons=true&theme=cobalt&title_color=ffffff&text_color=b8dcff&bg_color=0d1117&locale=en"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rubensmettejr&show_icons=true&theme=cobalt&title_color=ffffff&text_color=b8dcff&bg_color=0d1117&locale=en&layout=compact" alt="rubensmettejr" />
 <div style="display: inline_block"><br>
